@@ -1,2 +1,2 @@
 # GitStudy
-test repo for githun study
+test repo for githu study
